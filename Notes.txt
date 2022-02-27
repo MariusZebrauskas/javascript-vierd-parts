@@ -1,0 +1,7 @@
+Number(false) = 0;
+Number is a func to chek what default value gives Javascript
+
+
+Boolean("") = false;
+Boolean([]) = true;
+Booleanis a func to chek what default value gives Javascript
